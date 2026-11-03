@@ -1,0 +1,6 @@
+{
+  "name": "BERKAH ANAK SOLEH KELAS XI",
+  "description": "Platform latihan dan pemahaman Fisika interaktif Kelas XI SMA dengan pembahasan matematis dua metode (cara cepat & cara lambat), audio narator Bahasa Indonesia, serta rendering rumus ilmiah berestetika Batik Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
